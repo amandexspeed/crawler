@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\send\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:send\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\scraper\\mercadolivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:scraper\\mercadolivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\scraper\\magazineluiza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:scraper\\magazineluiza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\data\\logcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:data\\logcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\migrations\\20240227200330_logdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:migrations\\20240227200330_logdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\migrations\\logcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:migrations\\logcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\est\u00E1gio\\projetos senai\\back-end\\raspagem crawler\\raspagem api\\raspagem api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9034CA51-9CDE-478F-A126-4077DDA2CEC2}|Raspagem API.csproj|solutionrelative:raspagem api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Models\\log.cs",
+              "RelativeDocumentMoniker": "Models\\log.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Models\\log.cs",
+              "RelativeToolTip": "Models\\log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T19:31:33.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "email.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Send\\email.cs",
+              "RelativeDocumentMoniker": "Send\\email.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Send\\email.cs",
+              "RelativeToolTip": "Send\\email.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:57:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:30:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "produto.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Models\\produto.cs",
+              "RelativeDocumentMoniker": "Models\\produto.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Models\\produto.cs",
+              "RelativeToolTip": "Models\\produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T19:32:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mercadolivre.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Scraper\\mercadolivre.cs",
+              "RelativeDocumentMoniker": "Scraper\\mercadolivre.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Scraper\\mercadolivre.cs",
+              "RelativeToolTip": "Scraper\\mercadolivre.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwFEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:28:36.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "magazineluiza.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Scraper\\magazineluiza.cs",
+              "RelativeDocumentMoniker": "Scraper\\magazineluiza.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Scraper\\magazineluiza.cs",
+              "RelativeToolTip": "Scraper\\magazineluiza.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:26:07.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240227200330_LogDB.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Migrations\\20240227200330_LogDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240227200330_LogDB.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Migrations\\20240227200330_LogDB.cs",
+              "RelativeToolTip": "Migrations\\20240227200330_LogDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:08:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogContext.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\data\\LogContext.cs",
+              "RelativeDocumentMoniker": "data\\LogContext.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\data\\LogContext.cs",
+              "RelativeToolTip": "data\\LogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:14:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Migrations\\LogContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LogContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Migrations\\LogContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LogContextModelSnapshot.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:58:27.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Raspagem API.csproj",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Raspagem API.csproj",
+              "RelativeDocumentMoniker": "Raspagem API.csproj",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Est\u00E1gio\\Projetos Senai\\Back-End\\Raspagem Crawler\\Raspagem API\\Raspagem API.csproj",
+              "RelativeToolTip": "Raspagem API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T17:25:18.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
